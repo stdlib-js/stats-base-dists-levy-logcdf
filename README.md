@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.logcdf;
+})();
 })();
 </script>
 ```
@@ -158,6 +160,7 @@ y = mylogcdf( 2.0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-logcdf@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var mu;
 var c;
@@ -173,6 +176,7 @@ for ( i = 0; i < 100; i++ ) {
     console.log( 'x: %d, µ: %d, c: %d, ln(F(x;µ,c)): %d', x.toFixed( 4 ), mu.toFixed( 4 ), c.toFixed( 4 ), y.toFixed( 4 ) );
 }
 
+})();
 })();
 </script>
 </body>
