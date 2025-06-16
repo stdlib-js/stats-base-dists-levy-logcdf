@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-16)
+
+<section class="features">
+
+### Features
+
+-   [`f014e0e`](https://github.com/stdlib-js/stdlib/commit/f014e0e4b230707b12a62c9b5d671ca7e03cebf8) - add C implementation for `stats/base/dists/levy/logcdf` [(#4391)](https://github.com/stdlib-js/stdlib/pull/4391)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4977](https://github.com/stdlib-js/stdlib/issues/4977)
+[#3724](https://github.com/stdlib-js/stdlib/issues/3724), [#4977](https://github.com/stdlib-js/stdlib/issues/4977)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f014e0e`](https://github.com/stdlib-js/stdlib/commit/f014e0e4b230707b12a62c9b5d671ca7e03cebf8) - **feat:** add C implementation for `stats/base/dists/levy/logcdf` [(#4391)](https://github.com/stdlib-js/stdlib/pull/4391) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 
 </details>
@@ -36,10 +47,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Dhruv Arvind Singh
 -   Hemant M Mehta
+-   Philipp Burckhardt
 
 </section>
 
