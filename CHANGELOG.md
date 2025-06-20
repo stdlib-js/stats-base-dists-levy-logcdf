@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-16)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`1425b4a`](https://github.com/stdlib-js/stdlib/commit/1425b4a8b4a396b4e760ca3d99bd4345638d9f03) - remove unused `eps` dependency from `levy/logcdf` manifest
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`1425b4a`](https://github.com/stdlib-js/stdlib/commit/1425b4a8b4a396b4e760ca3d99bd4345638d9f03) - **fix:** remove unused `eps` dependency from `levy/logcdf` manifest _(by Philipp Burckhardt)_
 -   [`f014e0e`](https://github.com/stdlib-js/stdlib/commit/f014e0e4b230707b12a62c9b5d671ca7e03cebf8) - **feat:** add C implementation for `stats/base/dists/levy/logcdf` [(#4391)](https://github.com/stdlib-js/stdlib/pull/4391) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 
