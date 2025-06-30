@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-29)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`dc32afc`](https://github.com/stdlib-js/stdlib/commit/dc32afc5a19ebe7825ed085633b225c55557f047) - **chore:** add missing eps dependency to benchmark and examples configs _(by Philipp Burckhardt)_
 -   [`1425b4a`](https://github.com/stdlib-js/stdlib/commit/1425b4a8b4a396b4e760ca3d99bd4345638d9f03) - **fix:** remove unused `eps` dependency from `levy/logcdf` manifest _(by Philipp Burckhardt)_
 -   [`f014e0e`](https://github.com/stdlib-js/stdlib/commit/f014e0e4b230707b12a62c9b5d671ca7e03cebf8) - **feat:** add C implementation for `stats/base/dists/levy/logcdf` [(#4391)](https://github.com/stdlib-js/stdlib/pull/4391) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
