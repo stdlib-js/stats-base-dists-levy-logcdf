@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-06-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`685691c`](https://github.com/stdlib-js/stdlib/commit/685691c6065af53a0527bcd690d1ade468f452df) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`0c1fea4`](https://github.com/stdlib-js/stdlib/commit/0c1fea42a94d1ec0d4ba8e9f29e411f0f3515041) - **bench:** update random value generation for `stats/base/dists/levy` [(#10449)](https://github.com/stdlib-js/stdlib/pull/10449) _(by Lokesh Ranjan, Philipp Burckhardt)_
